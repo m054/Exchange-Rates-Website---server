@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bFiu13Jp4JqnTJkvInCTC7b/XO55tj2SLf2l72TVDvc=",
+  "Source": "ExchangeRatseServer",
+  "BasePath": "_content/ExchangeRatseServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
