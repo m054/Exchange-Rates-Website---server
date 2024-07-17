@@ -1,3 +1,3 @@
-Download the project to your computer.
-Open it in VS.
-and run the solution.
+1.Download the project to your computer./<br>
+2.Open it in VS./<br>
+3.and run the solution.
